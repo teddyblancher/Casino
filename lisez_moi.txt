@@ -1,0 +1,1 @@
+Ce depôt contient des fichiers Python dont le code reproduit des jeux de hasards tel que la roulette.
